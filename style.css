@@ -37,7 +37,7 @@ nav ul li a{
 main{
     margin: 100px;
 }
-#aboutmyself, #mylifestory, #myhobbies, #contactme, #favorites, friends{
+#aboutmyself, #mylifestory, #myhobbies, #contactme, #favorites, #friends{
     background-color: rebeccapurple;
     border-radius: 20px;
     padding: 20px;
